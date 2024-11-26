@@ -1,0 +1,3 @@
+This is a simple but useful app who's main purpose is to count the number of people or items that are in or have enterd a place. 
+The code editor used is VS Code , take the files code it in your own way.
+ .................................................... THE LIMITLESS COUNTER APP ................................................   
